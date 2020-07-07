@@ -10,11 +10,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="248dp"
-        android:layout_height="375dp"
+        android:layout_width="match_parent"
+        android:layout_height="364dp"
         app:srcCompat="@drawable/store"
         tools:layout_editor_absoluteX="81dp"
-        android:layout_marginLeft="50dp"
 
         tools:layout_editor_absoluteY="57dp" />
 
