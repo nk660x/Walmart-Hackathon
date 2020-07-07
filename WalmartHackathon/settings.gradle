@@ -1,0 +1,2 @@
+rootProject.name='WalmartHackathon'
+include ':app'
